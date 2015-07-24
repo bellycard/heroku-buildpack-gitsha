@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "------> Set GITSHA"
+echo "-----> Set GITSHA"
 cd $1
 echo $SOURCE_VERSION > .gitsha
 echo '       using gitsha '$SOURCE_VERSION
