@@ -1,7 +1,6 @@
 #!/bin/sh
 echo "-----> Set GITSHA"
 cd $1
-rm .gitsha
 echo $SOURCE_VERSION > .gitsha
 echo '       using gitsha '$SOURCE_VERSION
 exit 0
