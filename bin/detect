@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "Heroku Slug Pre-compile"
 exit 0
