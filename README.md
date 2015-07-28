@@ -1,6 +1,11 @@
 # Heroku pre-deploy buildpack
 
-Enable multiple buildpacks:
+## Prerequisite
+
+`bundle update --source napa`
+
+
+## Enable multiple buildpacks:
 
 `heroku buildpacks:set https://github.com/ddollar/heroku-buildpack-multi.git`
 
