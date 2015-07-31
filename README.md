@@ -28,7 +28,7 @@ https://github.com/heroku/heroku-buildpack-ruby.git
 ```
 
 
-## Enable with Heroku's CLI
+## Enable with Heroku's CLI (Alternative setup)
 
 Please refer to [this article on heroku](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app)
 
